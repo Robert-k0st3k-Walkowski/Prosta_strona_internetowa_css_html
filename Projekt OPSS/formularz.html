@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Instagram - Wizytówka 3</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+		<body>
+			<div id="gora">
+				<div> <!-- Górna belka z linkami do innych podstron -->
+					<img id="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"/>
+				</div>
+				<div> <!-- Linki do pozostałych podstron -->
+					<a id="glowna" href="glowna.html">Strona główna</a>
+					<a id="opis" href="opis.html">Opis</a>
+					<a id="formularz" href="formularz.html">Wyślij nam zapytanie</a>
+					<p id="tytul">Instagram - biblioteka wspomnień</p>
+				</div>
+			</div>
+				<div class="ramka"> <!-- Ramka posiadająca formularz do pytań odnośnie aplikacji Instagrama -->
+					<p id="formularz_tytul">Cześć! Fajnie, że tu wpadłeś!</p>
+					<p id="formularz_tresc">Jeżeli masz ochotę zadać nam jakieś pytanie odnośnie instagrama, znać jakieś większe szczegóły odnośnie jego działania
+					lub nawet zacząć "rozkręcać" na nim swój biznes-plan, zapraszamy do wysyłania pytań poprzez ten formularz!</p>
+					<form action="#" method="post">
+				<fieldset id="formularz_ramka">
+					<h1>Zadaj jakieś pytanko:</h1>
+					<p>* - Dane wymagane do przesłania formularza</p>
+					<div>
+						<label>Imię: * </label><input required type="text" name="fname"><br>
+						<label>Nazwisko: * </label><input required type="text" name="sname"><br>
+						<label>Adres e-mail: * </label><input required type="email" name="email"><br>
+					</div>
+					<label for="comment" id="formularz_label">Tu zarzuć jakimś ciekawym pytankiem: *</label>
+					<div>
+						<textarea cols="40" rows="20">Pytaj, pytaj śmiało!!!</textarea>
+					</div>
+					<div>
+						<input type="submit" id="button" value="Prześlij pytanko">
+					</div>
+				</fieldset>
+			</form>
+				</div>
+		</body>
+</html>

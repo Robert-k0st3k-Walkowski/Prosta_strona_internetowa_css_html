@@ -1,4 +1,4 @@
-# PROSTA STRONA INTERNETOWA
+# PROSTA STRONA INTERNETOWA 🛜
 
 To repozytorium zawiera moją pierwszą stronę internetową, która była projektem zaliczeniowym na zajęcia: "Opracowywanie serwisów sieciowych 1".
 <br><br>Jest to prosta stronka opisująca popularną aplikację "Instagram" oraz zawierająca "formularz" z możliwością przesłania pytania.
@@ -7,7 +7,7 @@ To repozytorium zawiera moją pierwszą stronę internetową, która była proje
 ## Jak odpalić stronę?
 Wystarczy pobrać folder z plikami z repozytorium i otworzyć plik "glowna", by móc przetestować stronę.
 
-## Przykładowe zrzuty ekranu
+## Przykładowe zrzuty ekranu 📷
 
 * Strona główna
 <br>![error](./Screeny/1.png)

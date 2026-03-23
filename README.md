@@ -1,6 +1,6 @@
 # PROSTA STRONA INTERNETOWA 🛜
 
-To repozytorium zawiera moją pierwszą stronę internetową, która była projektem zaliczeniowym na zajęcia: "Opracowywanie serwisów sieciowych 1".
+To repozytorium zawiera moją pierwszą stronę internetową, która była realizowana na potrzeby prostego projektu na zajęcia oraz nauczenia się posługiwaniem połączenia języków HTML oraz CSS.
 <br><br>Jest to prosta stronka opisująca popularną aplikację "Instagram" oraz zawierająca "formularz" z możliwością przesłania pytania.
 <br><br>Nie jest to może nic wielkiego, ale od czegoś trzeba zacząć 😂😉
 
